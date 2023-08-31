@@ -52003,7 +52003,7 @@ A.px.prototype={
 aB(){return new A.Eu(B.m)}}
 A.Eu.prototype={
 W(a){var s=null
-return new A.pm(new A.qz(A.a_e(new A.wb(B.fu,B.mY,B.mZ,B.hu,s,B.fb,s,A.b([new A.B7("Home",s,s,s,s),new A.oT(A.adg(s,s,new A.nD("assets/gif/blankgif.gif",s,s)),s)],t.nA),s),s,s),s),s)}}
+return new A.pm(new A.qz(A.a_e(new A.wb(B.fu,B.mY,B.mZ,B.hu,s,B.fb,s,A.b([new A.B7("Home",s,s,s,s),new A.oT(A.adg(s,s,new A.nD("assets/image/humanwithoutmarksedited.png",s,s)),s)],t.nA),s),s,s),s),s)}}
 A.b1.prototype={
 aw(a){var s=a.a,r=this.a
 r[15]=s[15]
